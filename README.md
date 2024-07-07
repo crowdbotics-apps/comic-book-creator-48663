@@ -69,6 +69,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-photo-editing](modules/photo-editing)
 - [react-native-privacy-policy-webview](modules/privacy-policy-webview)
 - [react-native-qr-code](modules/qr-code)
+- [django-files](backend/modules)
 
 # Getting started: Frontend
 
