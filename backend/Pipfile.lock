@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "aafc395ea0cf7f626c9791918d06463070e4a50e834d5fa0d74f386015c38b6e"
+            "sha256": "9a1ab560bcf361092e853b4dbe1e2fa1f5e462a082d9c1a5b88118750ac06075"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -111,6 +111,10 @@
         "cb-django-openai": {
             "editable": true,
             "path": "./modules/django_openai"
+        },
+        "cb-django-typeform-webhook": {
+            "editable": true,
+            "path": "./modules/django_typeform_webhook"
         },
         "certifi": {
             "hashes": [
@@ -388,6 +392,13 @@
             ],
             "index": "pypi",
             "version": "==4.1.0"
+        },
+        "django-jsonfield": {
+            "hashes": [
+                "sha256:ccb2fe623e1bf7799e49c593b0a89a85084ef8d3debbf26d92a54e27b5305d72",
+                "sha256:f789a0ea1f80b48aff7d6c36dd356ce125dbf1b7cd97a82d315607ac758f50ff"
+            ],
+            "version": "==1.4.1"
         },
         "django-storages": {
             "hashes": [
