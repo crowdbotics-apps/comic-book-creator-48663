@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-mixpanel-analytics](modules/mixpanel-analytics)
 - [react-native-photo-editing](modules/photo-editing)
 - [react-native-privacy-policy-webview](modules/privacy-policy-webview)
+- [react-native-qr-code](modules/qr-code)
 
 # Getting started: Frontend
 
